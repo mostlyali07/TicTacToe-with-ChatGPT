@@ -3,8 +3,10 @@ body {
   font-family: Arial, sans-serif;
 }
 .App {
+  height: 100vh;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 .game-board {
   width: 300px;
